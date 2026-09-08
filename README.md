@@ -1,4 +1,4 @@
-# DKARCCamera for Blackview Shark8 (GSI)
+# shark8-stock-camera-gsi-port - DKARCCamera for Blackview Shark8 (GSI)
 
 Patched stock camera APK for MediaTek GSI (Shark8).
 Restores **HDR**, **Night**, and **Panorama** modes on GSI where ArcSoft native libs are missing.
